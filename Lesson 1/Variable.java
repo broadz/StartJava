@@ -1,11 +1,11 @@
 public class Variable {
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		byte core = 4;
 		short ram = 8;
-		int systype = 64;
-		long procprice = 297;
-		float minghz = 1.6f;
-		double maxghz = 3.40d;  
+		int sysType = 64;
+		long procPrice = 297;
+		float minGhz = 1.6f;
+		double maxGhz = 3.40d;  
 		char firstLetterBrand = 'X';
 		boolean mx150 = true;
 
